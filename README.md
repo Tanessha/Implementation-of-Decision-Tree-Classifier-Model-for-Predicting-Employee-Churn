@@ -68,7 +68,7 @@ print("Prediction for input data:", prediction)
 
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/78a757cd-2de0-44e1-8cbc-307c7b2f6b56)
+![image](https://github.com/user-attachments/assets/2ac446a6-19c8-4fe7-a8a0-1707b633c5cb)
 
 
 ## Result:
